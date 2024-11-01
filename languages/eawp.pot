@@ -1,0 +1,156 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple Marketplace Affiliate\n"
+"POT-Creation-Date: 2017-02-08 00:00+0100\n"
+"PO-Revision-Date: 2017-02-08 00:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-marketplace-affiliate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/options.php:12 includes/options.php:13 templates/options.php:3
+msgid "Envato Affiliate"
+msgstr ""
+
+#: simple-marketplace-affiliate.php:119
+msgid "Es wurde kein Token angegeben. Siehe in den Einstellungen nach."
+msgstr ""
+
+#: simple-marketplace-affiliate.php:123
+msgid "Es wurde kein Produkt gefunden."
+msgstr ""
+
+#: simple-marketplace-affiliate.php:168
+msgid "Es wurde kein Produkt angegeben."
+msgstr ""
+
+#: templates/ajax.php:27
+#, php-format
+msgid "Von %s"
+msgstr ""
+
+#: templates/ajax.php:43
+msgid "Mehr erfahren"
+msgstr ""
+
+#: templates/options.php:19
+msgid "API"
+msgstr ""
+
+#: templates/options.php:25
+msgid "Allgemein"
+msgstr ""
+
+#: templates/options.php:45
+msgid "Links & Support"
+msgstr ""
+
+#: templates/options.php:47
+msgid ""
+"Du hast Fragen oder Verbesserungsvorschl&auml;ge? Zögere nicht und schreibe "
+"uns. Wir sind fast rund um die Uhr am PC."
+msgstr ""
+
+#: templates/options.php:50
+msgid "Plugin-Website"
+msgstr ""
+
+#: templates/options.php:51
+msgid "Github"
+msgstr ""
+
+#: templates/options.php:52
+msgid "Changelog"
+msgstr ""
+
+#: templates/options.php:53
+msgid "Support"
+msgstr ""
+
+#: templates/options/api.php:8
+msgid "Envato Marktplatz"
+msgstr ""
+
+#: templates/options/api.php:9
+msgid "hier einen persönlichen Token anfordern"
+msgstr ""
+
+#: templates/options/api.php:10
+#, php-format
+msgid ""
+"Hier musst Du Einstellungen für die Verbindung zur Envato API vornehmen. Um "
+"die API verwenden zu können, musst Du ein Envato Konto erstellt haben und %s."
+msgstr ""
+
+#: templates/options/api.php:11
+#, php-format
+msgid ""
+"Deine Affiliate-ID erhälst Du in einem beliebigen %s unter \"Affiliate\"."
+msgstr ""
+
+#: templates/options/api.php:15
+msgid "Envato API"
+msgstr ""
+
+#: templates/options/api.php:26
+msgid "Pers&ouml;nlicher Token"
+msgstr ""
+
+#: templates/options/api.php:29
+#, php-format
+msgid "Wenn Du noch keinen Token hast, kannst Du %s."
+msgstr ""
+
+#: templates/options/api.php:33
+msgid "Affiliate-ID"
+msgstr ""
+
+#: templates/options/api.php:36
+msgid ""
+"F&uuml;ge hier Deine pers&ouml;nliche Envato Affiliate-ID ohne <code>?ref=</"
+"code> Tag ein."
+msgstr ""
+
+#: templates/options/general.php:10
+msgid "Allgemeine Einstellungen"
+msgstr ""
+
+#: templates/options/general.php:12
+msgid "Hier kannst Du allgemeine Einstellungen für das Plugin vornehmen."
+msgstr ""
+
+#: templates/options/general.php:21
+msgid "Shortcode"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Marketplace Affiliate"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://devhats.de"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Binde mit Shortcodes beliebige Envato Produkte auf deiner WordPress Seite "
+"ein und setze in den Optionen deinen Affiliate Tag, um auch noch Geld damit "
+"zu verdienen."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DEVHATS"
+msgstr ""

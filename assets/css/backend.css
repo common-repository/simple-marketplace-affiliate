@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+}
+
+.envato-affiliate-tab-wrapper {
+	position: relative;
+}
+
+.envato-affiliate-tabs:before,
+.envato-affiliate-tabs:after {
+	content: " ";
+	display: table;
+}
+
+.envato-affiliate-tabs:after {
+	clear: both;
+}
+
+.envato-affiliate-tabs {
+	*zoom: 1;
+	margin: 0;
+	padding: 0;
+}
+
+.envato-affiliate-tab {    
+	float: left;
+	margin: 0;
+	background-color: #F1F1F1;
+	border-style: solid;
+	border-color: #e5e5e5;
+	border-width: 1px 1px 0 0;	
+}
+
+.envato-affiliate-tab:first-child {
+	border-width: 1px 1px 0 1px !important;
+}
+
+.envato-affiliate-tab-active {
+	background-color: #fff !important;
+}
+
+.envato-affiliate-tab-link {    
+	position: relative;
+	display: block;
+	margin: 0;
+	padding: 8px 12px;
+	font-size: 15px;
+	line-height: 20px;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.envato-affiliate-tab-active .envato-affiliate-tab-link {
+	color: #444;
+}
+
+.envato-affiliate-tab-content {
+	border: 1px solid #e5e5e5;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	background: #fff;
+	padding: 0 20px;
+	width: 100%;
+}
+
+.envato-affiliate-informations {
+	width: 100%;
+	border: 1px solid #e5e5e5;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	background: #fff;
+	padding: 0 20px;	
+}
+
+/* Grid */
+
+.envato-affiliate-col-1 {width: 8.33%;}
+.envato-affiliate-col-2 {width: 16.66%;}
+.envato-affiliate-col-3 {width: 25%;}
+.envato-affiliate-col-4 {width: 33.33%;}
+.envato-affiliate-col-5 {width: 41.66%;}
+.envato-affiliate-col-6 {width: 50%;}
+.envato-affiliate-col-7 {width: 58.33%;}
+.envato-affiliate-col-8 {width: 66.66%;}
+.envato-affiliate-col-9 {width: 75%;}
+.envato-affiliate-col-10 {width: 83.33%;}
+.envato-affiliate-col-11 {width: 91.66%;}
+.envato-affiliate-col-12 {width: 100%;}
+
+[class*="envato-affiliate-col-"] {
+    float: left;
+	padding: 20px 20px 20px 0;
+}
+
+[class*="envato-affiliate-col-"]:last-child {
+	padding: 20px 0px;
+	
+}
+
+.envato-affiliate-row:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+@media only screen and (max-width: 768px) {
+    [class*="envato-affiliate-col-"] {
+        width: 100%;
+		padding: 20px 0px 0px;
+    }
+}
